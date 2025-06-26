@@ -85,9 +85,9 @@ export default function Navbar() {
           <div className="lg:hidden flex items-center justify-center px-3 pt-1 text-white rounded-md">
             <button onClick={() => setIsOpen(!isOpen)} className="outline-none">
               {!isOpen ? (
-                <i class="fa-solid fa-bars text-xl md:text-2xl"></i>
+                <i className="fa-solid fa-bars text-xl md:text-2xl"></i>
               ) : (
-                <i class="fa-solid fa-xmark text-xl md:text-2xl"></i>
+                <i className="fa-solid fa-xmark text-xl md:text-2xl"></i>
               )}
             </button>
           </div>
