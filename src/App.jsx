@@ -1,7 +1,4 @@
 import { createBrowserRouter, Navigate, RouterProvider } from "react-router";
-import Footer from "./Components/Footer/Footer";
-import Navbar from "./Components/Navbar/Navbar";
-import Picture from "./Components/Picture/Picture";
 import About from "./Pages/About/About";
 import Contact from "./Pages/Contact/Contact";
 import Home from "./Pages/Home/Home";
