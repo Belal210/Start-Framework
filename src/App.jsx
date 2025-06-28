@@ -4,7 +4,7 @@ import Contact from "./Pages/Contact/Contact";
 import Home from "./Pages/Home/Home";
 import Portfolio from "./Pages/Portfolio/Portfolio";
 import NotFound from "./Pages/NotFound/NotFound";
-import Layout from "./layout/Layout";
+import Layout from "./Layout/Layout";
 function App() {
   const routes = createBrowserRouter([
     {
